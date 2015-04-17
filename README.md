@@ -23,7 +23,7 @@ A foto do mockup é meramente ilustrativa.
 * Lazy Load de Imagens
 * Cache de imagens e da API. 
 * Alguns comentários na tela de detalhes da foto (apenas listar, não precisa a parte de adicionar)
-* Unit Testes
+* Unit Tests
 
 ### **Envio do Desafio** ###
 Você deverá implementar a solução e enviar um pull request para este repositório com a solução.
