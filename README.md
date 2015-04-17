@@ -18,6 +18,7 @@ A foto do mockup é meramente ilustrativa.
 
 * Usar Adaptive Layout e Storyboard
 * Usar CocoaPods para gestão de dependências
+* Usar bibliotecas externas como AFNetworking, Mantle, etc
 * Mapeamento JSON -> Objeto. 
 * Framework para comunicação com API.
 * Lazy Load de Imagens
