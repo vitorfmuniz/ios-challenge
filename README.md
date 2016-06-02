@@ -56,18 +56,13 @@ Não será apresentado nenhum mockup de interface, já que um dos critérios ava
 
 ## Requisitos
 
-* Xcode 7.1+
-* Swift 2.0 ou Objective-C
+* Xcode 7.3+
+* Swift 2.2
 * iOS 8.0+
 * Storyboards
-* Adaptative Layout
-* CocoaPods 	
-	_O uso dos pods abaixo é obrigatório, já que é um padrão dentro da empresa._
-	* Objective-C:
-		- AFNetworking
-		- Mantle
-	* Swift
-		- Alamofire 
+* Adaptive Design
+* CocoaPods
+	* Documente todos os Pods utilizados e o motivo da sua escolha no arquivo Readme.md do seu repositório. 
 
 ## API:
 
@@ -75,11 +70,10 @@ Você pode ler a documentação da API no site [TVmaze](http://www.tvmaze.com/ap
 
 ## Critérios de Avaliação:
 
-* Códigos e classes bem organizados;
+* Códigos e classes bem organizados.
 	* Caso deseje, você pode utilizar o mesmo styleguide que utilizamos na HE:labs para organizar seu código e projeto:	
-		- [Objective-C](https://github.com/HEmobile/objective-c-style-guide)
 		- [Swift](https://github.com/helabs/swift-style-guide)
-* Interface com boa usabilidade seguinte os guidelines da plataforma;
+* Interface com boa usabilidade seguindo as guidelines da plataforma.
 * Seguir bem a proposta solicitada. Quer adicionar uma nova feature para deixar seu teste ainda melhor? Termine todas as tarefas pedidas antes.
 * Testes unitários é um plus.
 * As tarefas extras também são um plus.
