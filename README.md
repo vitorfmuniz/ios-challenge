@@ -12,7 +12,7 @@ Você irá desenvolver um aplicativo para listagem de seriados consumindo a api 
 	* Você deve mostrar no mínimo o nome e a imagem de poster da serie na listagem e busca.
 	* Ao clicar em uma série, o aplicativo deve mostrar o detalhamento da mesma.
 
-* Detalhemento de uma série
+* Detalhamento de uma série
 	* O detalhamento deve mostrar as seguintes informações:
 		- Nome
 		- Poster
