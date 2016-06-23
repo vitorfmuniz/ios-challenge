@@ -38,13 +38,12 @@ Você irá desenvolver um aplicativo para listagem de seriados consumindo a api 
 
 ### Extra
 
-* Listagem de pessoas
-	* Você deve listar todos as pessoas mostrando o nome e a imagem do mesmo.
-	* Deve ser possível realizar buscas pelo nome da pessoa
+* Busca de Pessoas
+	* Você deve criar uma busca de pessoas listando o nome e a imagem da mesma
 	* Ao clicar na pessoa, o aplicativo deve mostrar o detalhamento da mesma
 
-* Detalhamento do artista
-	* O detalhamento do artista deve mostrar as seguintes informações:
+* Detalhamento de pessoa
+	* O detalhamento da pessoa deve mostrar as seguintes informações:
 		- Nome
 		- Imagem
 		- Series que ele já participou
