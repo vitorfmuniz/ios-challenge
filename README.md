@@ -55,9 +55,9 @@ Não será apresentado nenhum mockup de interface, já que um dos critérios ava
 
 ## Requisitos
 
-* Xcode 7.3+
-* Swift 2.2
-* iOS 8.0+
+* Xcode 8.0+
+* Swift 3
+* iOS 9.0+
 * Storyboards
 * Adaptive Design
 * CocoaPods
